@@ -28,6 +28,7 @@ The program allows users to enter process details (arrival time and burst time) 
 - Displays Gantt Chart, Waiting Times, and Turnaround Times.
 - Computes and prints average waiting and turnaround times.
 
+## Example
 ```
 CPU Scheduling Algorithms
 1. First-Come, First-Served (FCFS)
